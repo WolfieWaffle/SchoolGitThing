@@ -1,0 +1,2 @@
+# SchoolGitThing
+For School
